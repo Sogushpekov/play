@@ -1,0 +1,56 @@
+img{
+    width: 100%;
+}
+#cont{
+    width: 700px;
+    margin: auto;
+    border: 3px solid brown;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: white;
+}
+.word{
+    font-weight: 700;
+    color: aquamarine;
+}
+h1{
+    border: 3px solid seagreen;
+    border-radius: 15px;
+}
+.text1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    text-indent: 50px;
+    font-variant: small-caps;
+}
+.text2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+}
+.text3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+}
+.text4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+}
+body{
+    background-image: url(https://go-keys.ru/templates/main/posters/screens/ghostrunner2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    border: 3px solid blue;
+    border-radius: 15px;
+    padding: 5px 10px;
+
+}
+.menu a:hover{
+    background: blue;
+   color: white; 
+}
